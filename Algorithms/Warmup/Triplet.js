@@ -17,3 +17,4 @@ function triplets(a,b){
     return [alice,bob]
 }
 console.log(triplets(a,b))
+
