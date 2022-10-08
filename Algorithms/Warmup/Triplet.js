@@ -16,5 +16,6 @@ function compareTriplets(a,b){
     }
     return [alice,bob]
 }
-console.log(triplets(a,b))
+
+console.log(compareTriplets(a,b))
 
